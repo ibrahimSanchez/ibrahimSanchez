@@ -18,7 +18,6 @@
 
 <a href="https://www.linkedin.com/in/ibrahim-s%C3%A1nchez-610a16258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ibra._.ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ibrahim.sanchez.3139?locale=es_LA" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/facebook.png " alt="Facebook" height="30" width="40" /></a>
 </p>
 
 
